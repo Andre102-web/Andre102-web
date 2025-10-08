@@ -10,6 +10,8 @@
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+## Stats:
 <div>
 <a href="https://github.com/Andre102-web">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre102-web&layout=compact&langs_count=7&theme=dracula"/>
